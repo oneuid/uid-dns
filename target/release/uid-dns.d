@@ -1,0 +1,1 @@
+/home/s/Projects/uid.one/uid-dns/target/release/uid-dns: /home/s/Projects/uid.one/uid-dns/src/blocklist.rs /home/s/Projects/uid.one/uid-dns/src/config.rs /home/s/Projects/uid.one/uid-dns/src/main.rs /home/s/Projects/uid.one/uid-dns/src/resolver.rs /home/s/Projects/uid.one/uid-dns/src/telemetry.rs
