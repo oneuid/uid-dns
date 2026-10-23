@@ -2,7 +2,7 @@
 
 UID DNS is a high-performance, Rust-based DoH/DoT network resolver for the UID.one ecosystem, focusing on proactive threat interception and zero-config IoT security.
 
-For detailed architectural specifications, please see the [UID Platform Specifications](../uid-web/docs/uid-platform-specs.md).
+For detailed architectural specifications, please see the [UID 7-Layer Architecture](../uid-web/docs/uid-architecture-7-layers.md).
 
 ## Prerequisites
 - [Rust](https://rustup.rs/) (1.75+)
